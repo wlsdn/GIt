@@ -6,5 +6,3 @@
 
 로그인 기능 개발
 회원가입 개발
-
-git revert test
